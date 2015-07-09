@@ -1,2 +1,2 @@
 # snake
-This is a snake game which is made by C programming
+This is a small snake game which is made by C programming
